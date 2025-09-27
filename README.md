@@ -40,7 +40,7 @@ I enjoy building interactive web applications and solving complex coding challen
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gaurav-srivastav-406620369/)
+- [LinkedIn]([https://www.linkedin.com/in/gaurav-srivastav-406620369/](https://www.linkedin.com/in/gaurav-srivastav-a4b2142aa/))
 - [LeetCode](https://leetcode.com/u/Gaurav_4444/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/gauravsrivastav44/)
 - [GitHub](https://github.com/Gaurav-srivastav44)
